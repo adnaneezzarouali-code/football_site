@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Football Site</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    text-align:center;
+    background:#0f172a;
+    color:white;
+}
+
+header{
+    padding:40px;
+}
+
+.card{
+    background:#1e293b;
+    margin:20px auto;
+    max-width:500px;
+    padding:20px;
+    border-radius:15px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>⚽ Football Site ⚽</h1>
+<p>مرحباً بكم في موقعي الرياضي</p>
+</header>
+
+<div class="card">
+<h2>آخر الأخبار</h2>
+<p>هنا غادي نحط أخبار كرة القدم.</p>
+</div>
+
+<div class="card">
+<h2>أفضل لاعب</h2>
+<p>ليونيل ميسي 🐐</p>
+</div>
+
+</body>
+</html>
